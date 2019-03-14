@@ -61,12 +61,13 @@ I use a playlist to be able to play the webradio from API. I had found this idea
 2. Go to Browse, then WebRadio, and find your WebRadio
 3. On the far right, click on the three dots and click on "Clear and Play" (beware, this will clean your current queue)
 4. Go to the Queue page, and save the queue as a playlist (top right). I called my playlist "rp_autoplay".
-...This allows us to use the API request
-...`http://127.0.01:3000/api/v1/commands/?cmd=playplaylist&name=rp_autoplay`
-...to play the radio that is saved in the playlist "rp_autoplay".
-...The request for stopping anything from playing is:
-...`http://127.0.0.1:3000/api/v1/commands/?cmd=stop`
-...Note that the IP address (`127.0.01`) can be replaced by `localhost`.
+
+   This allows us to use the API request
+   `http://127.0.01:3000/api/v1/commands/?cmd=playplaylist&name=rp_autoplay`
+   to play the radio that is saved in the playlist "rp_autoplay".
+   The request for stopping anything from playing is:
+   `http://127.0.0.1:3000/api/v1/commands/?cmd=stop`
+   Note that the IP address (`127.0.01`) can be replaced by `localhost`.
 
 ### Copy and enable rocker.py
 To deal with the switch I wrote a python script that checks for changes in the state of the switch and subsequently sends the API requests to Volumio.
@@ -78,7 +79,9 @@ The module RPi.GPIO is needed and was not installed on my Volumio version so I h
 2. `ssh` to the Raspberry and install `gcc` and `RPi.GPIO` following [this guide](http://zasieczny.wordpress.com/2015/02/12/volumio-installing-gpio-python-module-to-control-amplifier/). Note that in my case `/etc/apt/sources.list` was already set up for jessie.
 3. `wget` or `scp` the python script to the Raspberry
 4. Enable the script to run at boot by editing `/etc/rc.local`, by adding the line `sudo python /home/volumio/rocker.py &`
-... Note that the path has to be consistent with the location of the script, and the `&` is essential.
-... Michelangelo Guarise [says that we should use a different system](http://volumio.org/forum/problem-starting-python-script-via-etc-local-t5971.html) to have a script run at boot, but I found that `rc.local` works as well.
+
+   Note that the path has to be consistent with the location of the script, and the `&` is essential.
+   Michelangelo Guarise [says that we should use a different system](http://volumio.org/forum/problem-starting-python-script-via-etc-local-t5971.html) to have a script run at boot, but I found that `rc.local` works as well.
+
 
 to be continued...
