@@ -23,9 +23,9 @@ Material
 * [Raspberry Pi 3 Model B+](www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [HiFiBerry DAC+](www.hifiberry.com/products/dacplus)
 * [Joy-it rp port-doubler](www.conrad.ch/fr/joy-it-rb-port-doubler-1-pcs-1720611.html) (Link to a Swiss reseller)
-* 3 Jumper wires and 2 resistors (1 x 1k&Omega, 1 x 10k&Omega) from [this Arduino kit](wiki.seeedstudio.com/Sidekick_Basic_Kit_for_Arduino_V2)
+* 3 Jumper wires and 2 resistors (1 x 1k&#937;, 1 x 10k&#937;) from [this Arduino kit](wiki.seeedstudio.com/Sidekick_Basic_Kit_for_Arduino_V2)
 * [the rocker switch](www.conrad.ch/fr/interrupteur-a-levier-1-x-offon-sci-701011-250-vac-15-a-a-accrochage-1-pcs-701011.html)
-* a RCA stereo cable ending with your favourite connector (a small jack in my case, [like this](www.amazon.com/Adecco-LLC-Stereo-Female-Adapter/dp/B01ET3Y2SO/ref=sr_1_22?keywords=rca+to+jack&qid=1552585050&s=electronics&sr=1-22) )
+* a RCA stereo cable ending with your favourite connector (a small jack in my case, [like this](www.amazon.com/Adecco-LLC-Stereo-Female-Adapter/dp/B01ET3Y2SO/ref=sr_1_22?keywords=rca+to+jack&qid=1552585050&s=electronics&sr=1-22))
 * a power supply for the Raspberry Pi
 * a Micro SD card
 
