@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Marta Binaghi"
 title_separator          : "-"
 name                     : &name "Marta Binaghi"
-description              : &description "PhD student at IPS UniBe, computational biologist"
+description              : &description "PhD student at IPS UniBe, mainly bioinformatics"
 url                      : https://martabe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martabe/martabe.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Marta Binaghi"
   avatar           : "me.png"
-  bio              : "PhD student at IPS UniBe, computational biologist, Open Science supporter"
+  bio              : "PhD student at IPS UniBe, almost a bioinformatician, Open Science supporter"
   location         : 
   employer         : "Kuhlemeier group, IPS UniBe"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
