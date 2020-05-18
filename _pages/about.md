@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My page"
+title: "Marta's home page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,5 +10,4 @@ redirect_from:
 
 This is a web page where I am supposed to share science-related things and attest my web presence as an academic.
 
-In fact, right now it only serves to share the report of a small Raspberry Pi project.
-Might get more content later on.
+In fact, right now it's just a CV... more content will come!
