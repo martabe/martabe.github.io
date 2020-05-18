@@ -11,37 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Management of cultivated plants and landscaping, University of Milan, Italy 2014
+* Master of Science in Plant, food and environmental biotechnology, University of Milan, Italy 2016
+* Currently PhD candidate in Molecular Life Sciences at University of Bern, Switzerland
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2013 and 2014: Plant science event organisation
+  * University of Milan
+  * Duties included: Organisation of laboratories for kids
+  * Supervisor: Prof. Dr. Laura Rossini
   
+* 2013-2017: Data entry clerk
+  * Duties included: data entry on online database
+  * One day per week
+  
+* Spring 2017: Consultant for a science contest
+  * University of Milan, CTU and CusMiBio
+  * Duties included: Secretary and IT support
+  * Supervisor: Antonella Cosetti
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Italian, native
+  * English, C1 of CEFR guidelines (CAE University of Cambridge)
+  * French, understanding and basic speaking skills
+  
+* Computer skills
+  * Windows, Machintosh, Linux OS
+  * bash: good
+  * R: good
+  * python: basic
+  * Fiji - ImageJ: basic
+  * InkScape: basic
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
 Talks
 ======
   <ul>{% for post in site.talks %}
