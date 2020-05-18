@@ -36,7 +36,7 @@ Skills
 ======
 * Languages
   * Italian, native
-  * English, C1 of CEFR guidelines (CAE University of Cambridge)
+  * English, C1 of [CEFR guidelines](http://www.coe.int/lang-CEFR) (Certificate of Advanced English, University of Cambridge)
   * French, understanding and basic speaking skills
   
 * Computer skills
@@ -65,6 +65,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
