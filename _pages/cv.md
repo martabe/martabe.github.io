@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * May 2013 and 2014: Plant science event organisation
-  * University of Milan
-  * Duties included: Organisation of laboratories for kids
+  * Faculty of Agricultural and Food Sciences, University of Milan
+  * Duties included: Organisation of plant-related laboratories for kids
   * Supervisor: Prof. Dr. Laura Rossini
   
 * 2013-2017: Data entry clerk
@@ -27,7 +27,7 @@ Work experience
   * One day per week
   
 * Spring 2017: Consultant for a science contest
-  * University of Milan, CTU and CusMiBio
+  * CTU and CusMiBio, University of Milan
   * Duties included: Secretary and IT support
   * Supervisor: Antonella Cosetti
 
