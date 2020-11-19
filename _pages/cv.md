@@ -41,6 +41,7 @@ Skills
   
 * Computer skills
   * Windows, Macintosh, Linux OS
+  * Microsoft Office (Word, Excel, PowerPoint): good
   * bash: good
   * R: good
   * python: basic
