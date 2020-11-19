@@ -40,7 +40,7 @@ Skills
   * French, understanding and basic speaking skills
   
 * Computer skills
-  * Windows, Machintosh, Linux OS
+  * Windows, Macintosh, Linux OS
   * bash: good
   * R: good
   * python: basic
