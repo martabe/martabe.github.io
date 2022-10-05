@@ -1,6 +1,6 @@
 ---
 title: 'How I listen to my favourite radio'
-date: 2100-01-01
+date: 2019-03-14
 permalink: /posts/2019/03/howilisten/
 tags:
   - Raspberry Pi
