@@ -14,7 +14,7 @@ This is my web page. I use it to show a bit of what I do both at work and in my 
 
 ## About my job
 
-<img align="right" width="150" height="150" src="https://github.com/martabe/martabe.github.io/blob/master/images/pexserta_small90.png">
+<img align="right" width="150" height="150" src="https://github.com/martabe/martabe.github.io/blob/master/images/pexserta_small90.png?raw=true">
 
 I am currently working as a postdoc in [Cris Kuhlemeier's group](https://www.ips.unibe.ch/research/deve/index_eng.html), in Bern.
 The group studies how evolution works, and uses the model plant Petunia to investigate the topic. One of the questions we ask is: how many genes need to change (i.e. mutate) in one species in order for it to evolve into a new species? The group has been working hard on this question, especially by looking at phenotypic traits (for example flower colour) that strongly affect pollinator's choice (and hence where the pollen will go, and who will the plant reproductive partner be). The group found that these types of phenotypic traits can be changed by one or a few mutations, and that these affect the choice of the pollinators (Sheehan et al. 2016, Esfeld et al., 2018).
