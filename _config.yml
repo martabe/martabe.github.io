@@ -306,4 +306,4 @@ compress_html:
     envs: development
 
 # Site skin
-minimal_mistakes_skin: "sunrise" #"dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
