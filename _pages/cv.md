@@ -16,6 +16,7 @@ Work experience
 Plant Genetics and Development group, Institute of Plant Sciences, University of Bern
 * Leading and designing experiments, analysing data for two main projects (DNA/RNAseq, GWAS, population genetics, phenotype analysis)
 * Collaborating on two other projects (critical insights, bioinformatics and image analyses)
+* Presenting my work at one international conference
 * Supervisor: Prof. Dr. Cris Kuhlemeier
 
 **2017-2021** Doctoral researcher
@@ -23,7 +24,7 @@ Plant Genetics and Development group, Institute of Plant Sciences, University of
 * Designing and conducting analyses to investigate the genetic basis of evolution in Petunia
 * Working simultaneously on one autonomous and three shared projects, including international collaborations
 * Preparing course material and grading students in bioinformatics
-* Communicating research outcomes (posters and talks) at four international conferences
+* Communicating research outcomes (posters and talks) at three international conferences
 * Organising scientific and recreational events in academic environment
 * Supervisor: Prof. Dr. Cris Kuhlemeier
 
@@ -55,7 +56,7 @@ Skills
   * English, C1 of [CEFR guidelines](http://www.coe.int/lang-CEFR) (Certificate of Advanced English, University of Cambridge)
   * French, understanding and basic speaking skills
   
-* Computer skills
+* IT skills
   * Windows, Macintosh, Linux OS
   * Microsoft Office (Word, Excel, PowerPoint): good
   * bash: good
