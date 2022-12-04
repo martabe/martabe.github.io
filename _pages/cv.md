@@ -90,7 +90,7 @@ They say about me
 
 My colleagues at University of Bern started leaving some reviews on my desk after I helped them with work and non-work related problems. You can see some of them here:
 
-<img align="left" width="200" src="https://github.com/martabe/martabe.github.io/blob/master/images/theysayaboutme_828x569.png?raw=true" alt="A photo showing five post-its with reviews, including stars and small comments on the service provided. The messages are funny and positive." />
+<img align="left" width="800" src="https://github.com/martabe/martabe.github.io/blob/master/images/theysayaboutme_828x569.png?raw=true" alt="A photo showing five post-its with reviews, including stars and small comments on the service provided. The messages are funny and positive." />
 
 
 <!--
