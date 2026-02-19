@@ -12,7 +12,14 @@ redirect_from:
 Work experience
 ======
 
-**Since 2022** Post-doctoral researcher
+**2023-2025** Data scientist
+Data Sciences group, Axxam, Milan
+* Routinely performing data analysis for high-throughput assays (biochemical and cell-based assays), including imaging assays
+* Developing a pipeline for downstream analysis of Cell Painting assay results
+* Delivering results to clients and supporting them with result interpretation and data visualization
+* Presenting at one international conference
+
+**2022** Post-doctoral researcher
 Plant Genetics and Development group, Institute of Plant Sciences, University of Bern
 * Leading and designing experiments, analysing data for two main projects (DNA/RNAseq, GWAS, population genetics, phenotype analysis)
 * Collaborating on two other projects (critical insights, bioinformatics and image analyses)
@@ -54,7 +61,7 @@ Skills
 * Languages
   * Italian, native
   * English, C1 of [CEFR guidelines](http://www.coe.int/lang-CEFR) (Certificate of Advanced English, University of Cambridge)
-  * French, understanding and basic speaking skills
+  * French, intermediate understanding and speaking skills, basic writing skills
   
 * IT skills
   * Windows, Macintosh, Linux OS
@@ -65,12 +72,12 @@ Skills
   * Fiji - ImageJ: basic
   * InkScape: basic
 
-<!--Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  -->
+
 
 Talks and posters
 ======
