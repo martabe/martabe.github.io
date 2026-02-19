@@ -37,6 +37,6 @@ In my spare time I also like to assemble and disassemble things. You can find me
 ---
 ### References
 
-Esfeld, Korinna, Andrea E. Berardi, Michel Moser, Eligio Bossolini, Loreta Freitas, and Cris Kuhlemeier. 2018. ‘Pseudogenization and Resurrection of a Speciation Gene’. Current Biology 28 (23): 3776-3786.e7. https://doi.org/10.1016/j.cub.2018.10.019.
+Esfeld, Korinna, Andrea E. Berardi, Michel Moser, Eligio Bossolini, Loreta Freitas, and Cris Kuhlemeier. 2018. ‘Pseudogenization and Resurrection of a Speciation Gene’. Current Biology 28 (23): 3776-3786.e7. [doi.org/10.1016/j.cub.2018.10.019](https://doi.org/10.1016/j.cub.2018.10.019).
 
-Sheehan, Hester, Michel Moser, Ulrich Klahre, Korinna Esfeld, Alexandre Dell’Olivo, Therese Mandel, Sabine Metzger, Michiel Vandenbussche, Loreta Freitas, and Cris Kuhlemeier. 2016. ‘MYB-FL Controls Gain and Loss of Floral UV Absorbance, a Key Trait Affecting Pollinator Preference and Reproductive Isolation’. Nature Genetics 48 (2): 159–66. https://doi.org/10.1038/ng.3462.
+Sheehan, Hester, Michel Moser, Ulrich Klahre, Korinna Esfeld, Alexandre Dell’Olivo, Therese Mandel, Sabine Metzger, Michiel Vandenbussche, Loreta Freitas, and Cris Kuhlemeier. 2016. ‘MYB-FL Controls Gain and Loss of Floral UV Absorbance, a Key Trait Affecting Pollinator Preference and Reproductive Isolation’. Nature Genetics 48 (2): 159–66. [doi.org/10.1038/ng.3462](https://doi.org/10.1038/ng.3462).
