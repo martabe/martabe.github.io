@@ -18,5 +18,10 @@ var addressPoints = [
     "Helsinki, Finland",
     60.17263992884914, 
     24.945878299935345
+  ],
+  [
+    "Basel, Switzerland",
+    47.564354,
+    7.598985,
   ]
 ];
