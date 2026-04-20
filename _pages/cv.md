@@ -83,13 +83,14 @@ Skills
   * python: basic
   * Fiji - ImageJ: basic
   * InkScape: basic
+<!--
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 
 Talks and posters
 ======
