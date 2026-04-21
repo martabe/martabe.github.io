@@ -83,6 +83,8 @@ Skills
   * python: basic
   * Fiji - ImageJ: basic
   * InkScape: basic
+ 
+
 <!--
 Publications
 ======
