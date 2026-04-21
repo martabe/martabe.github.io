@@ -84,7 +84,6 @@ Skills
   * Fiji - ImageJ: basic
   * InkScape: basic
 <!--
-
 Publications
 ======
   <ul>{% for post in site.publications %}
