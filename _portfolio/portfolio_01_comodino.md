@@ -1,32 +1,27 @@
 ---
 title: "Comodino"
-excerpt: "Comodino in multistrato fenolico <br/><img width="200" height="300" src='/images/comodino_01.JPG'>"
+excerpt: "Comodino in multistrato fenolico <br/><img width='200' height='300' src='/images/comodino_01.JPG'>"
 collection: portfolio
 ---
 
-Un comodino in multistrato fenolico con cassetto e antina.
+Un comodino in multistrato fenolico con cassetto e antina.<br/>
 Prodotto durante il corso di Falegname mobiliere presso [SIAM 1838](https://www.siam1838.it/), tenuto da [Makers Lab](https://www.makerslabmilano.it/).
-
-
+<br/>
 <img align="left" width="400" height="600" src="https://github.com/martabe/martabe.github.io/blob/master/images/comodino_01.JPG?raw=true" alt="Una foto di un comodino" />
-
-
+<br/>
+<br/>
 Dettagli del comodino: il cassetto con separatore
 <img align="left" width="300" height="200" src="https://github.com/martabe/martabe.github.io/blob/master/images/comodino_02.JPG?raw=true" alt="Foto del cassetto aperto di un comodino" />
-
-
+<br/>
+<br/>
 Dettagli del comodino: maniglia del cassetto
-
+<br/>
 <img align="left" width="300" height="200" src="https://github.com/martabe/martabe.github.io/blob/master/images/comodino_03.JPG?raw=true" alt="Foto della maniglia di un comodino" />
-
-
+<br/>
 Dettagli del comodino: angolo dell'antina con foro per apertura
-
-
+<br/>
 <img align="left" width="300" height="200" src="https://github.com/martabe/martabe.github.io/blob/master/images/comodino_04.JPG?raw=true" alt="Foto di un dettaglio dell'antina di un comodino" />
-
-
+<br/>
 Dettagli del comodino: cerniera collo 18
-
-
+<br/>
 <img align="left" width="300" height="200" src="https://github.com/martabe/martabe.github.io/blob/master/images/comodino_05.JPG?raw=true" alt="Foto della cerniera dell'antina del comodino" />
