@@ -12,7 +12,7 @@ Traversi fissati con incastri (tenone-mortasa). La "L" della struttura è unita 
 ### Struttura portante
 <img align="left" width="400" height="600" src="https://github.com/martabe/martabe.github.io/blob/master/images/piante_03.jpeg?raw=true" alt="Foto della struttura del mobile per piante" />
 <br clear="left"/>
-### Traversi con tenoni e mortase nelle spalle
+### Traversi in primo piano e spalle in secondo, tenoni e mortase
 <img align="left" width="360" height="540" src="https://github.com/martabe/martabe.github.io/blob/master/images/piante_04.jpeg?raw=true" alt="Foto dei traversi e delle spalle del mobile per piante" />
 <br clear="left"/>
 ### Uno degli scaffali ottenuti da doghe di recupero
