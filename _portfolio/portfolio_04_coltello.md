@@ -17,5 +17,6 @@ Il manico è stato fatto a partire da legno di recupero a Bricheco, incollato co
 ### Momenti della forgiatura
 <img align="left" width="360" height="540" src="https://github.com/martabe/martabe.github.io/blob/master/images/coltello_03.JPG?raw=true" alt="Foto di un momento della forgiatura" />
 <br clear="left"/>
+<br/>
 <img align="left" width="360" height="540" src="https://github.com/martabe/martabe.github.io/blob/master/images/coltello_04.JPG?raw=true" alt="Foto di un momento della forgiatura" />
 <br clear="left"/>
